@@ -10,11 +10,11 @@ Resumo sobre os seguintes tópicos:
 
 O material apresenta definições teóricas, aplicações práticas e a importância dos sistemas automatizados no contexto da indústria e da tecnologia moderna.
 
-## 👩🏻‍💻 Autora
+## Autora
 Giovanna Menezes  
 
-## 🎓 Curso
+## Curso
 Engenharia de Software
 
-## 📅 Ano
+## Ano
 2026
