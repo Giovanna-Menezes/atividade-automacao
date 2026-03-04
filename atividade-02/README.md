@@ -9,6 +9,6 @@ Atividade 02 – Sala de Aula Invertida
 - Instrumentos de Medição e Controle  
 - Nomenclatura e Malhas de Controle  
 
-Autora: Giovanna Menezes Sousa
+## Autora: Giovanna Menezes Sousa
 Curso: Engenharia de Software
 Ano: 2026
